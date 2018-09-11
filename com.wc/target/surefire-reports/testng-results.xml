@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" total="1" passed="1">
+  <reporter-output>
+  </reporter-output>
+  <suite name="Surefire suite" duration-ms="42711" started-at="2018-09-11T16:09:11Z" finished-at="2018-09-11T16:09:54Z">
+    <groups>
+    </groups>
+    <test name="Surefire test" duration-ms="42711" started-at="2018-09-11T16:09:11Z" finished-at="2018-09-11T16:09:54Z">
+      <class name="com.wc.BaseTest">
+        <test-method status="PASS" signature="display()[pri:0, instance:com.wc.BaseTest@5e5792a0]" name="display" duration-ms="42687" started-at="2018-09-11T21:39:11Z" finished-at="2018-09-11T21:39:54Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- display -->
+      </class> <!-- com.wc.BaseTest -->
+    </test> <!-- Surefire test -->
+  </suite> <!-- Surefire suite -->
+</testng-results>
